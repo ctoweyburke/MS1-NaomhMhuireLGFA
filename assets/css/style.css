@@ -206,3 +206,34 @@ body{
 
     border: 1px solid lightgray;
 }
+/*====================================================================Footer====================*/
+.uppercase{
+    text-transform: uppercase;
+        }
+
+.footer-headings{
+    font-family: "Montserrat", sans-serif; 
+    font-style: italic;
+    color:black;
+    font-weight: 600;
+    text-align: center;
+    min-height: 50px;
+    padding-top: 20px;
+               }
+ .footer-text{
+     color: black;
+     font-family: "Roboto", sans-serif;
+     font-style: italic;
+ }
+.footer-img{
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+    align-content: center;
+    }
+
+ p{
+     padding-left: 20px;
+     color: black;
+     text-align: center;
+ }   
