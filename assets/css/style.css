@@ -1,0 +1,149 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Montserrat:ital,wght@0,100;0,700;1,600&family=Open+Sans&family=Roboto:wght@100;400&display=swap');
+
+/*=========================================================================Colors=======*/
+
+.uppercase{
+    text-transform: uppercase;
+        }
+body{
+    background-color: lightgray;
+}
+
+.ui-menu-color{
+    color: #fafafa;
+}
+
+.list-inline-item{
+    background-color:#000;
+}
+
+.menu-item span{
+    color: #fafafa;
+}
+
+.menu-item a i{
+    color: #fafafa;
+}
+
+.bg-color-contact{
+    background-color: #000;
+}
+/*===================================================================Headings=======*/
+.logo{
+    background-image: url("../images/NMCrest.jpg");
+    width: 210px;
+    height: 210px;
+    float: center;
+    background-size: 257px;
+    background-repeat: no-repeat;
+    background-position-x: -47px;
+    background-position-y: -55px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+     background-size: contain;
+    background-position: center;
+    max-height: 200px;
+    min-width: auto;
+        transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+}
+.name{
+    font-family: "Montserrat", sans-serif;
+    font-size: 46px;
+    font-weight: 600;
+    font-style: italic;
+    margin-top: 30px;
+    text-align: center;
+    text-shadow: 2px 2px
+}
+
+.title{
+    font-family: "roboto", sans-serif;
+    font-weight: 400;
+    font-size:28px ;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    text-align: center;
+}
+
+.about{
+    font-size: 16px;
+    font-style: italic;
+    letter-spacing: 2px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    text-align: center;
+    color: cornflowerblue;
+    }
+
+.social-networks-heading{
+    padding-top: 40px;
+    text-align: center;
+}
+
+.social-networks{
+    text-align: left;
+    padding-top: 10px;
+}
+
+.social-networks li{
+    display: inline;
+}
+
+.social-networks i{
+    font-size: 210%;
+    margin: 2%;
+    padding: 5%;
+    color: #000;
+    
+}
+
+.list-inline-item:not(:last-child){
+   margin: 0;
+       }
+
+.menucontainer{
+    font-size: 0;
+}
+
+.nav li{
+    font-size: 14px;
+    padding: 0;
+}
+
+.menuitem {
+    height: 100px;
+    text-align: center;
+    padding:0;
+        }
+
+.menuitem a{
+    width: 100%;
+    text-decoration: none;
+    color: #fafafa;
+    height: 100px;
+}
+
+.menuitem a i{
+    padding-top: 20px;
+    display: block;
+    color: #fafafa;
+    font-size: 26px;
+}
+
+.menuitem span{
+    display: block;
+    width: 100%;
+    padding-top: 5px;
+    text-align:center;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 2px;
+}
+/*=============================================Hover.css================================*/
+.hvr-sweep-to-right:before{
+    background: cornflowerblue;
+    height:100px;
+    }
