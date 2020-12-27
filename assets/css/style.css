@@ -237,3 +237,127 @@ body{
      color: black;
      text-align: center;
  }   
+/*=======================================Gallery Section============================*/
+
+.gallery-pics{
+    height: 300px;
+    width: 300px;
+    }
+/*============================================Contact Us================================*/
+
+.committee{
+    font-family: "Montserrat", sans-serif;     
+    font-size: 38px;
+    text-align: center;
+    color: cornflowerblue;
+    font-weight: 700;
+    font-stretch: semi-condensed;
+    padding: 20px;
+    margin-bottom: 30px;
+    font-style: italic;
+   }
+
+.contact-text {
+    text-align:left;
+    background-color: lightgrey;
+    padding: 30px;
+  }
+
+.contact-text-2{
+    background-color: cornflowerblue;
+}
+.contact-text-2 h5{
+    color: black;
+}
+
+.contact-text h5,p{
+      color: cornflowerblue;
+      font-family: "Roboto", sans-serif; 
+      font-weight: 900;
+      font-style: italic;
+      text-align: left;
+  }
+table {
+  font-family: "Roboto", sans-serif; 
+  border-collapse: collapse;
+  width: 60%;
+  margin-inline-end: auto;
+  background-color: black;
+  border: 1px solid cornflowerblue;
+  padding-bottom: 20px;
+}
+
+tr {
+  border: 1px solid black;
+  padding: 5px;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  color:cornflowerblue;
+  
+}
+
+td {
+  border: 1px solid cornflowerblue;
+  padding: 5px;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  color:white;
+  background-color: black;
+}
+tr:nth-child(even) {
+  background-color: #dddddd;
+  
+}
+table-setup{
+    margin-top: 0;
+    
+    
+}
+
+.request-info{
+      background-color: cornflowerblue;
+              }
+.request-info h4{
+    padding-top: 20px;
+        text-align: center;
+        font-family: "Montserrat", sans-serif; 
+        font-weight: 900;
+        font-style: italic;
+        color: #fafafa;
+}
+.request-info h5{
+    font-family: "Roboto", sans-serif;
+    letter-spacing: 2px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    color: #fafafa;
+}
+.center-form{
+padding-top:10px;
+margin: 0 auto;
+max-width:70% ;
+}
+
+button[type="submit"] {
+    margin-top: 15px;
+    margin-bottom: 20px;
+    }
+
+button[type="submit"]:hover {
+  background-color: black;
+  color:red;
+}
+/*============================================Contact us - Media Query=================*/
+
+@media(min-width: 992px) {
+.center-form{
+    padding-top:20px;
+    min-height: 240px;
+    margin: 0 auto;
+    max-width:50% ;
+}
+}
