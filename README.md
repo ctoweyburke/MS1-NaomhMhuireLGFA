@@ -1,45 +1,105 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
+<h1 align="center">Naomh Mhuire Oranmore Maree LGFA Website</h1>
 
-Welcome USER_NAME,
+[View the live project here.]()
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
+This is a new website for Naomh Mhuire, Oranmore Mareee Ladies Gaelic Football team. 
+It is designed to be responsive and accessible on a range of devices, making it easy to navigate 
+for current member and future members.
 
-## Gitpod Reminders
+<h2 align="center"><img src="NMCrest.jpg"></h2>
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+## User Experience (UX)
 
-`python3 -m http.server`
+-   ### User stories
 
-A blue button should appear to click: *Make Public*,
+    -   #### First Time Visitor Goals
 
-Another blue button should appear to click: *Open Browser*.
+        1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the club from first glance.
+        2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find team photos of the season.
+        3. As a First Time Visitor, I want to be able to see if I could find out further information on the club.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+    -   #### Returning Visitor Goals
 
-A blue button should appear to click: *Make Public*,
+        1. As a Returning Visitor, I want to find the best way to get in contact with the manager of a team.
+        2. As a Returning Visitor, I want to find the best way to get in contact with the club secretary or comittee member.
+        3. As a Returning Visitor, I want to find links to Oranmore Maree - One club (another code of Club) or Club Zap for membership payment.
 
-Another blue button should appear to click: *Open Browser*.
+    -   #### Frequent User Goals
+        1. As a Frequent User, I want to check to see if there are any newly added photos to the gallery.
+        2. As a Frequent User, I want to access social media to see updates on club/games or downloads to see club info.
+        3. As a Frequent User, I want to sign up to the Newsletter so that I can get monthly newsletter on club information.
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+-   ### Design
+    -   #### Colour Scheme
+        -   The colours used are cornflower blue, white and black - to match the colours of the club crest. I included light gray - rather than white as I liked
+            the way it blends in with the website, and it clearly defines the header and footer.
+    -   #### Typography
+        -   The Montserrat font is the main font used for headings, with Roboto as second font throughout the whole website. Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. 
+            Montserrat is a modern font, which I feel is attractive and used frequently in programming, so it is both attractive and appropriate. Roboto was recommended in google fonts as a second font to use with Montserrat, and I 
+            liked the look of it so that is why I chose it.
+    -   #### Imagery
+        -   Imagery is important. The large, hero image on the index.html page is designed to be striking and catch the user's attention as soon as they access the webpage.
+             It also has an energetic aesthetically with the transition attached to it.
 
-## Updates Since The Instructional Video
+*   ### Wireframes
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+    -   Home Page Wireframe - [View](https://github.com/)
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+    -   Mobile Wireframe - [View](https://github.com/)
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+    -   Contact Us Page Wireframe - [View](https://github.com/)
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+## Features
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+-   Responsive on all device sizes
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+-   Interactive elements - hover, transition, animation.
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+## Technologies Used
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+### Languages Used
 
---------
+-   [HTML5](WEBSITE ??)
+-   [CSS3]( WEBSITE Cascading_Style_Sheets)
 
-Happy coding!
+### Frameworks, Libraries & Programs Used
+
+1. [Bootstrap 4.4.1:](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
+    - Bootstrap was used to assist with the responsiveness and styling of the website. 
+1. [Hover.css:](https://ianlunn.github.io/Hover/)
+    - Hover.css was used on various locations in the webiste. 
+      Menu bar - for the 4 pages. There is transition on each page link from black to light grey when being hovered over.
+      Contact us page "send information request" button. There is transition on button from red button with white writing to transparent button with red writing when being hovered over.
+      Download links in the download page. There is transition on each section from light grey to dark gre when being hovered over.
+1. [Google Fonts:](https://fonts.google.com/)
+    - Google fonts were used to import the "Monserrat & Roboto" fonts specifically which were embedded into the style.css file 
+    which is used on all pages throughout the project.
+1. [Font Awesome:](https://fontawesome.com/)
+    - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
+1. [jQuery:](https://jquery.com/)
+    - jQuery came with Bootstrap to make the carousel work.
+1. [Git](https://git-scm.com/)
+    - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
+1. [GitHub:](https://github.com/)
+    - GitHub is used to store the projects code after being pushed from Git.
+1. [Photoshop:](https://www.adobe.com/ie/products/photoshop.html)
+    - Photoshop was used to create the logo, resizing images and editing photos for the website.
+1. [Balsamiq:](https://balsamiq.com/)
+    - Balsamiq was used to create the [wireframes](https://github.com/) during the design process.
+
+## Testing
+
+The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
+
+-   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
+
+URI : https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css
+6	abbr[data-original-title], abbr[title]	Property text-decoration-skip-ink doesn't exist : none
+6	.toast	Property backdrop-filter doesn't exist : blur(10px)
+URI : https://ctoweyburke.github.io/MS1-NaomhMhuireLGFA/assets/css/style.css
+36	.logo	Value Error : float center is not a float value : center
+162	.imgheader	Value Error : width Too many values or values are not recognized : 0 auto
+284	table	Property margin-inline-end doesn't exist : auto
+
+-   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
+
