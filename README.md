@@ -163,12 +163,13 @@ URI : https://ctoweyburke.github.io/MS1-NaomhMhuireLGFA/assets/css/style.css
 -   The website was viewed on a variety of devices such as Desktop, Laptop, ipad, iPhone7, Samsung S20.
 -   A large amount of testing was done to ensure that all pages were linking correctly, all images loading, and all text are in the 
     correct position on the page relative to the device being used.
+    Images are slow to load on the "Gallery" page. 
 -   Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
 
 ### Known Bugs
 
 -   I have tested the site on various devices, but have not found any known bugs. 
--   On Microsoft Edge and Internet Explorer Browsers, all links in Navbar are pushed upwards when hovering over them.
+-   On Google Chrome, the Social Media icons are 2 side by side and 1 below, rather than 3 across like in the page. 
 
 ## Deployment
 
