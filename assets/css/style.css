@@ -282,15 +282,15 @@ body{
 table {
   font-family: "Roboto", sans-serif; 
   border-collapse: collapse;
-  width: 60%;
+  width: 70%;
   margin-inline-end: auto;
   background-color: black;
-  border: 1px solid cornflowerblue;
+  border: 10px solid cornflowerblue;
   padding-bottom: 20px;
 }
 
 tr {
-  border: 1px solid black;
+  border: 2px solid black;
   padding: 5px;
   text-align: center;
   font-family: "Roboto", sans-serif;
@@ -301,7 +301,7 @@ tr {
 }
 
 td {
-  border: 1px solid cornflowerblue;
+  border: 10px solid cornflowerblue;
   padding: 5px;
   text-align: center;
   font-family: "Roboto", sans-serif;
@@ -476,5 +476,76 @@ button[type="submit"]:hover {
     font-size: 14px;
 }
 }
+}
+    
+    /*=======================================Gallery Section============================*/
 
-    /*============================================Contact us - Media Query=================*/
+.gallery-pics{
+    height: 350px;
+    width: 350px;
+    padding-left: 100px;
+    left: auto;
+    right: auto;    
+    padding-bottom: 20px;
+}
+/*============================================Gallery - Use on media screens - Media Query=================*/
+  
+@media screen and (max-width:700px){
+.gallery-pics{
+    height: 100px;
+    width: 100px;
+    padding-left: 10px;
+    left: auto;
+    right: auto;    
+    padding-bottom: 10px;
+}
+}
+/*=======================================Contact Us - Media Query=======*/
+@media screen and (max-width:700px){
+tr {
+  
+  font-size: 12px;
+  font-weight: 300;
+  
+  width: 90%;
+}
+}
+@media screen and (max-width:700px){
+td {
+  
+  font-size: 12px;
+  font-weight: 300;
+  color:white;
+  background-color: black;
+  width: 300px;
+}
+}
+@media screen and (max-width:700px){
+table {
+  font-family: "Roboto", sans-serif; 
+  border-collapse: collapse;
+  width: 300px;
+  margin-inline-end: auto;
+  background-color: black;
+  border: 1px solid cornflowerblue;
+  padding-bottom: 20px;
+}
+}
+@media screen and (max-width:700px){
+.committee{
+    font-size: 16px;
+    text-align: center;
+    font-weight: 400;
+    margin-bottom: 10px;
+     }
+}
+@media screen and (max-width:700px){
+.contact-text h5,p{
+      color: black;
+      font-family: "Roboto", sans-serif; 
+      font-weight: 500;
+      font-style: italic;
+      text-align: left;
+     
+  }
+}
