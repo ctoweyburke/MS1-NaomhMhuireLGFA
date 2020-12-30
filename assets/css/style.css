@@ -48,6 +48,8 @@ body{
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
 }
+
+
 .name{
     font-family: "Montserrat", sans-serif;
     font-size: 46px;
@@ -351,16 +353,7 @@ button[type="submit"]:hover {
   background-color: black;
   color:red;
 }
-/*============================================Contact us - Media Query=================*/
 
-@media(min-width: 992px) {
-.center-form{
-    padding-top:20px;
-    min-height: 240px;
-    margin: 0 auto;
-    max-width:50% ;
-}
-}
 /*====================================================Download========================*/
 .btn-outline-secondary h4{
     text-align: center;
@@ -381,3 +374,107 @@ button[type="submit"]:hover {
     text-align: center;
     padding: 15px;
 }
+/*==========================Carousel Item - INDEX.HTML========================*/
+.carousel-item{
+    height: 32rem;
+    background-color: #000;
+    color: white;
+    position: relative;
+    background-position: center;
+    background-size: 50%;
+    background-repeat: no-repeat;
+    }
+
+.container {
+    position: absolute;
+    right: -800px;
+    bottom:20px;
+    padding-bottom: 20px;
+    padding-top: 30px;
+    width: 90%;
+    }
+
+/*==========================Index - media queries========================*/
+
+@media screen and (max-width:700px){
+.carousel-item{
+    height: 15rem;
+    background-color: #000;
+    color: white;
+    position: relative;
+    background-position: center;
+    background-size: 70%;
+    background-repeat: no-repeat;
+    }
+}
+
+
+@media screen and (max-width:700px){
+    .logo{
+        right: -100px;
+        height: 100px;
+    }
+}
+@media screen and (max-width:700px){
+            .name{
+            font-size: 28px;
+            text-align: center;
+            margin-top: 5px;
+            text-shadow: 0px;
+                }
+    }
+
+@media screen and (max-width:700px){
+            .title{
+    font-family: "roboto", sans-serif;
+    font-weight: 400;
+    font-size: 14px ;
+    margin-top: 2px;
+    margin-bottom: 0px;
+    text-align: center;
+}
+    }
+@media screen and (max-width:700px){
+.about{
+    font-size: 12px;
+    font-style: italic;
+    letter-spacing: 2px;
+    padding-top: 10px;
+    padding-bottom: 0;
+    text-align: center;
+    color: cornflowerblue;
+    }
+}
+@media screen and (max-width:700px){
+    .social-networks-heading{
+    padding-top: 5px;
+    text-align: center;
+}
+}
+@media screen and (max-width:700px){
+.social-networks{
+    text-align: left;
+    padding-top: 5px;
+}
+@media screen and (max-width:700px){
+.social-networks li{
+   display: contents;
+    
+}
+}
+@media screen and (max-width:700px){
+.social-networks i{
+    font-size: 150%;
+    margin: 2%;
+    padding: 5px;
+    color: #000;
+    right: -40px;
+    }
+}
+@media screen and (max-width:700px){
+.social-networks-heading{
+    font-size: 14px;
+}
+}
+
+    /*============================================Contact us - Media Query=================*/
