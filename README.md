@@ -6,7 +6,7 @@ This is a new website for Naomh Mhuire, Oranmore Mareee Ladies Gaelic Football t
 It is designed to be responsive and accessible on a range of devices, making it easy to navigate 
 for current member and future members.
 
-<h2 align="center"><img src="NMCrest.jpg"></h2>
+<h2 align="center"><img src="/assets/NMCrest.jpg"></h2>
 
 ## User Experience (UX)
 
@@ -42,17 +42,42 @@ for current member and future members.
 
 *   ### Wireframes
 
-    -   Home Page Wireframe - [View](https://github.com/)
-
+    -   Home Page Wireframe - 
+    <h2 align="center"><img src="../assets/images/wireframes/indexhtmlpage1.jpg"></h2>[View](https://github.com/)
+    <h2 align="center"><img src="gallery.htmlpage2.jpg"></h2>
+    <h2 align="center"><img src="contactus.htmlpage3.jpg"></h2>
+    <h2 align="center"><img src="download.htmlpage4.jpg"></h2>
     -   Mobile Wireframe - [View](https://github.com/)
 
     -   Contact Us Page Wireframe - [View](https://github.com/)
 
 ## Features
 
+- Main page - photos - of big wins for the club in 2020 - highlighting the success of the club.
+
+- gallery page - photos to show off all players at different age groups and levels.
+
+- contact us page - with information on club committee and team coaches specifically.
+
+- download page for users to look at what goes on in the and links to the National Governing Body (LGFA) resources.
+
 -   Responsive on all device sizes
 
 -   Interactive elements - hover, transition, animation.
+
+- Links to social media pages and logos in the footer - links to webpages that users of the page will find useful.
+
+### Features Left to Implement
+
+When I have progressed on the course I aim to update this website so it will go live and be used by the club. 
+
+Real Names will be put in and numbers, more photos added and the contact us and sing up buttons will be linked to the secretary of the club.
+
+Once training starts back in 2021 - trianing days, times and locations will also be added to the site to make it more useful.
+
+I will embed facebook and instagram feeds to make sure users can look at updates on these without having to leave the site.
+
+Fixtures/Results page will be added - as we progress through the year. 
 
 ## Technologies Used
 
@@ -60,11 +85,12 @@ for current member and future members.
 
 -   [HTML5](From Code Institute Modules & https://www.w3schools.com/html/html_css.asp tutorials)
 -   [CSS3]( WEBSITE Cascading_Style_Sheets)
+-   [BOOTSTRAP] (Version 5.0.0 & 4.2.1 )
 
 ### Frameworks, Libraries & Programs Used
 
 1. [Bootstrap 4.4.1:](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
-    - Bootstrap was used to assist with the responsiveness and styling of the website. 
+    - Bootstrap was used to assist with the responsiveness and styling of the website. Also, with the Carousel item on the index.html page. 
 1. [Hover.css:](https://ianlunn.github.io/Hover/)
     - Hover.css was used on various locations in the webiste. 
       Menu bar - for the 4 pages. There is transition on each page link from black to light grey when being hovered over.
