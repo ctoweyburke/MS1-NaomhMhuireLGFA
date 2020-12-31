@@ -42,14 +42,12 @@ for current member and future members.
 
 *   ### Wireframes
 
-    -   Home Page Wireframe - 
-    <h2 align="center"><img src="../assets/images/wireframes/indexhtmlpage1.jpg"></h2>[View](https://github.com/)
-    <h2 align="center"><img src="gallery.htmlpage2.jpg"></h2>
-    <h2 align="center"><img src="contactus.htmlpage3.jpg"></h2>
-    <h2 align="center"><img src="download.htmlpage4.jpg"></h2>
-    -   Mobile Wireframe - [View](https://github.com/)
+    - Home Page
 
-    -   Contact Us Page Wireframe - [View](https://github.com/)
+
+    -   Gallery Page
+    
+    ![gallery html page 2](https://user-images.githubusercontent.com/73654541/103387444-c0fd3b00-4afb-11eb-81e5-03ff2cdd23ae.JPG)
 
 ## Features
 
