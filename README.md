@@ -30,15 +30,15 @@ for current member and future members.
         3. As a Frequent User, I want to see links to Galway LGFA (they don't have a website at present), Connacht LGFA & LGFA.
 -   ### Design
     -   #### Colour Scheme
-        -   The colours used are cornflower blue, white and black - to match the colours of the club crest. I included light gray as a background color- rather than white as I liked
-            the way it blends in with the website, and it clearly defines the sections on the pages.
+        -   The colours used are cornflower blue, white and black - to match the colours of the club crest. I included light gray as a background               color- rather than white as I liked the way it blends in with the website, and it clearly defines the sections on the pages.
+        
     -   #### Typography
-        -   The Montserrat font is the main font used for headings, with Roboto as second font throughout the whole website. Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. 
-            Montserrat is a modern font, which I feel is attractive and used frequently in programming, so it is both attractive and appropriate. Roboto was recommended in google fonts as a second font to use with Montserrat, and I 
+        -   The Montserrat font is the main font used for headings, with Roboto as second font throughout the whole website. Sans Serif as the                 fallback font in case for any reason the font isn't being imported into the site correctly. 
+            Montserrat is a modern font, which I feel is attractive and used frequently in programming, so it is both attractive and appropriate.               Roboto was recommended in google fonts as a second font to use with Montserrat, and I 
             liked the look of it so that is why I chose it.
     -   #### Imagery
-        -   Imagery is important. The large, hero image on the index.html page is designed to be striking and catch the user's attention as soon as they access the webpage.
-             It also has an energetic aesthetically position with the transition attached to it.
+        -   Imagery is important. The large, hero image on the index.html page is designed to be striking and catch the user's attention as soon as             they access the webpage.
+            It also has an energetic aesthetically position with the transition attached to it.
 
 *   ### Wireframes
 
@@ -62,15 +62,15 @@ for current member and future members.
 
 - Main page - photos - of big wins for the club in 2020 - highlighting the success of the club.
 
-- gallery page - photos to show off all players at different age groups and levels.
+- Gallery page - photos to show off all players at different age groups and levels.
 
-- contact us page - with information on club committee and team coaches specifically.
+- Contact us page - with information on club committee and team coaches specifically.
 
-- download page for users to look at what goes on in the and links to the National Governing Body (LGFA) resources.
+- Download page for users to look at what goes on in the and links to the National Governing Body (LGFA) resources.
 
--   Responsive on all device sizes
+- Responsive on all device sizes
 
--   Interactive elements - hover, transition, animation.
+- Interactive elements - hover, transition, animation.
 
 - Links to social media pages and logos in the footer - links to webpages that users of the page will find useful.
 
@@ -96,22 +96,28 @@ Fixtures/Results page will be added - as we progress through the year.
 
 ### Frameworks, Libraries & Programs Used
 
-1. [Bootstrap 4.4.1:](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
+1. [Bootstrap 5.0.0 & 4.2.1:](https://getbootstrap.com/docs/5.0.0/getting-started/introduction/)
     - Bootstrap was used to assist with the responsiveness and styling of the website. Also, with the Carousel item on the index.html page. 
-1. [Hover.css:](https://ianlunn.github.io/Hover/)
+    
+1. [Hover.css:](https://www.w3schools.com/)
     - Hover.css was used on various locations in the webiste. 
       Menu bar - for the 4 pages. There is transition on each page link from black to light grey when being hovered over.
-      Contact us page "send information request" button. There is transition on button from red button with white writing to transparent button with red writing when being hovered over.
-      Download links in the download page. There is transition on each section from light grey to dark gre when being hovered over.
+      Contact us page "send information request" button. There is transition on button from red button with white writing to transparent button           with red writing when being hovered over.
+      Download links in the download page. There is transition on each section from light grey to dark grey when being hovered over.
+      
 1. [Google Fonts:](https://fonts.google.com/)
     - Google fonts were used to import the "Monserrat & Roboto" fonts specifically which were embedded into the style.css file 
     which is used on all pages throughout the project.
+    
 1. [Font Awesome:](https://fontawesome.com/)
     - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
+    
 1. [Git](https://git-scm.com/)
     - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
+    
 1. [GitHub:](https://github.com/)
     - GitHub is used to store the projects code after being pushed from Git.
+    
 1. [Balsamiq:](https://balsamiq.com/)
     - Balsamiq was used to create the [wireframes](https://github.com/) during the design process.
 
