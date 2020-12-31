@@ -53,6 +53,10 @@ for current member and future members.
     - Contact Us 
     
     ![contactus html page 3](https://user-images.githubusercontent.com/73654541/103387557-60223280-4afc-11eb-9212-f89e5a941246.JPG)
+    
+    - Download
+    
+    ![download html page 4](https://user-images.githubusercontent.com/73654541/103387611-91026780-4afc-11eb-9faf-195c03bb4720.JPG)
 
 ## Features
 
