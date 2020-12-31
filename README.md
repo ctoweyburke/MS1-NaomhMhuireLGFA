@@ -49,6 +49,10 @@ for current member and future members.
     -   Gallery Page
     
     ![gallery html page 2](https://user-images.githubusercontent.com/73654541/103387444-c0fd3b00-4afb-11eb-81e5-03ff2cdd23ae.JPG)
+    
+    - Contact Us 
+    
+    ![contactus html page 3](https://user-images.githubusercontent.com/73654541/103387557-60223280-4afc-11eb-9212-f89e5a941246.JPG)
 
 ## Features
 
