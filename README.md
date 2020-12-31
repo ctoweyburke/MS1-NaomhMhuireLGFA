@@ -127,16 +127,29 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 -   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
 
-https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fctoweyburke.github.io%2FMS1-NaomhMhuireLGFA%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en 
-URI : https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css
-6	abbr[data-original-title], abbr[title]	Property text-decoration-skip-ink doesn't exist : none
-6	.toast	Property backdrop-filter doesn't exist : blur(10px)
-URI : https://ctoweyburke.github.io/MS1-NaomhMhuireLGFA/assets/css/style.css
-36	.logo	Value Error : float center is not a float value : center
-162	.imgheader	Value Error : width Too many values or values are not recognized : 0 auto
-284	table	Property margin-inline-end doesn't exist : auto
+<h5>Download.html - Documents have illegal character in path segment.<h/5> 
+Error: Bad value assets/documents/Academy Naomh Mhuire Report 2020.pdf for attribute href on element a: Illegal character in path segment: space is not allowed.
+From line 70, column 17; to line 70, column 116
+
+          <a href="assets/documents/Academy Naomh Mhuire Report 2020.pdf" target="_blank" class="academy-pdf">↩     
+
+Fixed this bug in the html page "Download" by changing the name of documents with no spaces and git commit made on this. 
+
 
 -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
+
+Congratulations! No Error Found.
+This document validates as CSS level 3 + SVG !
+
+https://jigsaw.w3.org/css-validator/validator
+
+<p>
+    <a href="http://jigsaw.w3.org/css-validator/check/referer">
+        <img style="border:0;width:88px;height:31px"
+            src="http://jigsaw.w3.org/css-validator/images/vcss"
+            alt="Valid CSS!" />
+    </a>
+</p>
 
 ### Testing User Stories from User Experience (UX) Section
 
@@ -144,18 +157,18 @@ URI : https://ctoweyburke.github.io/MS1-NaomhMhuireLGFA/assets/css/style.css
 
     1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the organisation.
 
-        1. Upon entering the site, users are automatically greeted with a clean and easily readable navigation bar to go to the page of their choice. 
+        1. Upon entering the site, users are automatically greeted with a clean and easily readable navigation bar to go to the page of their               choice. 
         2. The main points are made immediately with the hero image
         3. The user has the option to scroll down to learn more about the organisation.
 
     2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find conent.
 
-        1. The site has been designed to be fluid and never to entrap the user. At the top of each page there is a clean navigation bar, each link describes what the page they will end up at clearly.
-        2. At the bottom of the first 3 pages there is a redirection call to action to ensure the user always has somewhere to go and doesn't feel trapped as they get to the bottom of the page.
-        3. On the Contact Us Page, after a form response is submitted, the page refreshes and the user is brought to the top of the page where the navigation bar is.
+        1. The site has been designed to be fluid and never to entrap the user. At the top of each page there is a clean navigation bar, each link          describes what the page they will end up at clearly.
+        2. At the bottom of the first 3 pages there is a redirection call to action to ensure the user always has somewhere to go and doesn't feel          trapped as they get to the bottom of the page.
+        3. On the Contact Us Page, after a form response is submitted, the page refreshes and the user is brought to the top of the page where the          navigation bar is.
 
     3. As a First Time Visitor, As a First Time Visitor, I want to be able to see if I could find out further information on the club.
-        1. Once the new visitor has navigated through the pages, they have several options of contacting a person directly via phone or submitting a request for further information.
+        1. Once the new visitor has navigated through the pages, they have several options of contacting a person directly via phone or submitting          a request for further information.
         2. The user can immediately see upon loading the page links to social media in the header.
         3. In the download section, the user can download any of the 4 documents to see what is happending at different age groups in the club.
 
@@ -164,12 +177,12 @@ URI : https://ctoweyburke.github.io/MS1-NaomhMhuireLGFA/assets/css/style.css
     1. As a Returning Visitor, I want to As a Returning Visitor, I want to find the best way to get in contact with the manager of a team..
 
         1. The "contact us" page is clearly shown in the navigation bar at the top of the web page. 
-        2. Once they click on this page, it will bring them into the club contacts  - specifically manager of teams of each age group and phone numbers. 
+        2. Once they click on this page, it will bring them into the club contacts  - specifically manager of teams of each age group and phone             numbers. 
 
-    2. As a Returning Visitor, I want to find As a Returning Visitor, I want to find the best way to get in contact with the club secretary or comittee member.
+    2. As a Returning Visitor, I want to find As a Returning Visitor, I want to find the best way to get in contact with the club secretary or              comittee member.
 
         1. The navigation bar clearly highlights the "Contact Us" Page.
-        2. Here they can fill out the form on the page or phone a committe member. Alternatively, on each page the are informed they can follow the club on social media.
+        2. Here they can fill out the form on the page or phone a committe member. Alternatively, on each page the are informed they can follow the         club on social media.
         3. The header contains links to the organisations Facebook, Twitter and Instagram page as well as the organization's email.
         4. Whichever link they click, it will be open up in a new tab to ensure the user can easily get back to the website.
        
@@ -183,16 +196,16 @@ URI : https://ctoweyburke.github.io/MS1-NaomhMhuireLGFA/assets/css/style.css
 
     1. As a Frequent User,I want to check to see if there are any newly added photos to the gallery.
 
-        1. The user would already be comfortable with the website layout and can easily click the "gallery" page to see if new photos have been added.
+        1. The user would already be comfortable with the website layout and can easily click the "gallery" page to see if new photos have been             added.
 
     2. As a Frequent User, I want to access social media to see updates on club/games or downloads to see club info.
 
-        1. The user would already be comfortable with the website layout and can easily click the social media links to bring them directly to the club facebook or instagram. At present, the club do 
+        1. The user would already be comfortable with the website layout and can easily click the social media links to bring them directly to the          club facebook or instagram. At present, the club do 
         not have a twitter account.
 
     3. As a Frequent User, I want to see links to Galway LGFA (they don't have a website at present), Connacht LGFA & LGFA.
         1. At the bottom of every page their is a footer which content is consistent throughout all pages.
-        2. To the right hand side of the footer the user can see "Links to Galway, Connacht & LGFA" and can click on these icons which will bring them to the 
+        2. To the right hand side of the footer the user can see "Links to Galway, Connacht & LGFA" and can click on these icons which will bring           them to the 
         organisations webpage on a seperate page.
         3. They are re-drected to another page, so can easily come back again to the Naomh Mhuire page.
 
@@ -216,13 +229,12 @@ URI : https://ctoweyburke.github.io/MS1-NaomhMhuireLGFA/assets/css/style.css
 
 The project was deployed to GitHub Pages using the following steps...
 
-1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
-2. At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
-    - Alternatively Click [Here](https://raw.githubusercontent.com/) for a GIF demonstrating the process starting from Step 2.
-3. Scroll down the Settings page until you locate the "GitHub Pages" Section.
-4. Under "Source", click the dropdown called "None" and select "Master Branch".
+1. Log in to GitHub and locate the my github repository - ctoweyburke/MS1-NaomhMhuireLGFA [GitHub Repository]
+2. At the top of the Repository , I located the "Settings" Button on the menu.
+3. I scrolled down the Settings page until I located the "GitHub Pages" Section.
+4. Under "Source", I clicked on the dropdown called "None" and select "Master Branch".
 5. The page will automatically refresh.
-6. Scroll back down through the page to locate the now published site [link](https://github.com) in the "GitHub Pages" section.
+6. I then scrolled back down through the page to locate the now published site [https://github.com/ctoweyburke/MS1-NaomhMhuireLGFA/] in the "GitHub Pages" section.
 
 ### Forking the GitHub Repository
 
