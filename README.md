@@ -246,29 +246,22 @@ By forking the GitHub Repository we make a copy of the original repository on ou
 
 ### Making a Local Clone
 
-1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
-2. Under the repository name, click "Clone or download".
-3. To clone the repository using HTTPS, under "Clone with HTTPS", copy the link.
-4. Open Git Bash
+1. I logged in to GitHub and locate the my repository - ctoweyburke/MS1-NaomhMhuireLGFA
+2. Under the repository name, I clicked "Clone or download".
+3. I then chose to clone the repository using HTTPS, under "Clone with HTTPS", and I copied the link.
+4. I then opened Git Bash
 5. Change the current working directory to the location where you want the cloned directory to be made.
-6. Type `git clone`, and then paste the URL you copied in Step 3.
+6. I then typed in `git clone`, and then pasted the URL I copied in step 3.
 
-```
-$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
-```
+$ git clone https://github.com/ctoweyburke/MS1-NaomhMhuireLGFA.git
 
-7. Press Enter. Your local clone will be created.
 
-```
-$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
-> Cloning into `CI-Clone`...
-> remote: Counting objects: 10, done.
-> remote: Compressing objects: 100% (8/8), done.
-> remove: Total 10 (delta 1), reused 10 (delta 1)
-> Unpacking objects: 100% (10/10), done.
-```
+7. I then pressed "Enter". My local clone was created.
 
-Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository#cloning-a-repository-to-github-desktop) to retrieve pictures for some of the buttons and more detailed explanations of the above process.
+
+See image below - repository cloned.
+
+![gitclone](https://user-images.githubusercontent.com/73654541/103389457-c744e480-4b06-11eb-8983-0d67b70d0374.JPG)
 
 ## Credits
 
