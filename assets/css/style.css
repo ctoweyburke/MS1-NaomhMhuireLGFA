@@ -33,7 +33,7 @@ body{
     background-image: url("../images/NMCrest.jpg");
     width: 210px;
     height: 210px;
-    float: center;
+    float: none;
     background-size: 257px;
     background-repeat: no-repeat;
     background-position-x: -47px;
@@ -161,7 +161,7 @@ body{
     background-color: cornflowerblue;
     padding-top: 20px;
     padding-bottom: 40px;
-    width:0 auto;
+    
     animation-name: hero-zoom;
     animation-duration: 5s;
     animation-fill-mode: forwards;
@@ -283,7 +283,7 @@ table {
   font-family: "Roboto", sans-serif; 
   border-collapse: collapse;
   width: 70%;
-  margin-inline-end: auto;
+  margin: auto;
   background-color: black;
   border: 10px solid cornflowerblue;
   padding-bottom: 20px;
@@ -420,8 +420,7 @@ button[type="submit"]:hover {
             font-size: 28px;
             text-align: center;
             margin-top: 5px;
-            text-shadow: 0px;
-                }
+            }
     }
 
 @media screen and (max-width:700px){
@@ -525,7 +524,7 @@ table {
   font-family: "Roboto", sans-serif; 
   border-collapse: collapse;
   width: 300px;
-  margin-inline-end: auto;
+  margin: auto;
   background-color: black;
   border: 1px solid cornflowerblue;
   padding-bottom: 20px;
