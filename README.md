@@ -1,6 +1,7 @@
 <h1 align="center">Naomh Mhuire Oranmore Maree LGFA Website</h1>
 
-[https://ctoweyburke.github.io/MS1-NaomhMhuireLGFA/]()
+
+https://ctoweyburke.github.io/MS1-NaomhMhuireLGFA/
 
 This is a new website for Naomh Mhuire, Oranmore Mareee Ladies Gaelic Football team. 
 It is designed to be responsive and accessible on a range of devices, making it easy to navigate 
