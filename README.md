@@ -6,7 +6,7 @@ This is a new website for Naomh Mhuire, Oranmore Mareee Ladies Gaelic Football t
 It is designed to be responsive and accessible on a range of devices, making it easy to navigate 
 for current member and future members.
 
-<h2 align="center"><img src="/assets/NMCrest.jpg"></h2>
+![nmcrest](https://user-images.githubusercontent.com/73654541/103387681-fe15fd00-4afc-11eb-9e3f-4d18dac3cf5d.jpg)
 
 ## User Experience (UX)
 
