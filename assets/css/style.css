@@ -482,8 +482,8 @@ button[type="submit"]:hover {
     /*=======================================Gallery Section============================*/
 
 .gallery-pics{
-    height: 350px;
-    width: 350px;
+    height: 200px;
+    width: 250px;
     padding-left: 100px;
     left: auto;
     right: auto;    

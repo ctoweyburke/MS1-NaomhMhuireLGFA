@@ -1,7 +1,7 @@
 <h1 align="center">Naomh Mhuire Oranmore Maree LGFA Website</h1>
 
 
-[Link to Naomh Mhire Oranmore Maree LGFA Website!](https://ctoweyburke.github.io/MS1-NaomhMhuireLGFA/)
+[Link to Naomh Mhuire Oranmore Maree LGFA Website!](https://ctoweyburke.github.io/MS1-NaomhMhuireLGFA/)
 
 This is a new website for Naomh Mhuire, Oranmore Mareee Ladies Gaelic Football team. 
 It is designed to be responsive and accessible on a range of devices, making it easy to navigate 
@@ -59,12 +59,12 @@ for current member and future members.
     
     - Contact Us 
     
-    ![contactus html page 3](https://user-images.githubusercontent.com/73654541/103447464-81f9f180-4c83-11eb-831a-e348b4677c7c.JPG)
+    ![contactus html page 3](https://user-images.githubusercontent.com/73654541/103447736-229de080-4c87-11eb-9135-5c356ccc1237.JPG)
 
     
     - Download
 
-    ![download html page 4](https://user-images.githubusercontent.com/73654541/103447457-5ecf4200-4c83-11eb-83e6-19d5589fa173.JPG)
+    ![download html page 4](https://user-images.githubusercontent.com/73654541/103447696-97bce600-4c86-11eb-9add-a1b8bf69db43.JPG)
 
 ## Features
 
@@ -230,6 +230,9 @@ https://jigsaw.w3.org/css-validator/validator
 
 -   I have tested the site on various devices, but have not found any known bugs. 
 -   On Google Chrome, the Social Media icons are 2 side by side and 1 below, rather than 3 across like in the page. 
+
+- I tested the pages to ensure they were mobile responsive. On iphone I found - the social media icons were not centered. I had already 
+created a media query so I had to work on it to align the icons. 
 
 ## Deployment
 
