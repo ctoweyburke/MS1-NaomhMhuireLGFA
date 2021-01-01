@@ -1,13 +1,17 @@
 <h1 align="center">Naomh Mhuire Oranmore Maree LGFA Website</h1>
 
 
-https://ctoweyburke.github.io/MS1-NaomhMhuireLGFA/
+[Link to Naomh Mhire Oranmore Maree LGFA Website!](https://ctoweyburke.github.io/MS1-NaomhMhuireLGFA/)
 
 This is a new website for Naomh Mhuire, Oranmore Mareee Ladies Gaelic Football team. 
 It is designed to be responsive and accessible on a range of devices, making it easy to navigate 
 for current member and future members.
 
 ![nmcrest](https://user-images.githubusercontent.com/73654541/103387681-fe15fd00-4afc-11eb-9e3f-4d18dac3cf5d.jpg)
+
+
+ Mock Up of the site on various devices![mockupnaomhmhuire](https://user-images.githubusercontent.com/73654541/103445917-71408000-4c71-11eb-9e7c-6544c03d0fb9.JPG)
+
 
 ## User Experience (UX)
 
@@ -45,19 +49,22 @@ for current member and future members.
 
     - Home Page
 
-    ![index html page 1](https://user-images.githubusercontent.com/73654541/103387517-2bae7680-4afc-11eb-89af-f1da7aa8c1e4.JPG)
+    ![index htmlpage1](https://user-images.githubusercontent.com/73654541/103447398-c33dd180-4c82-11eb-9a1f-7b1a27b8b100.JPG)
+
     
     -   Gallery Page
     
-    ![gallery html page 2](https://user-images.githubusercontent.com/73654541/103387444-c0fd3b00-4afb-11eb-81e5-03ff2cdd23ae.JPG)
+   ![gallery html page 2](https://user-images.githubusercontent.com/73654541/103447409-e5375400-4c82-11eb-8458-14ee030993bb.JPG)
+
     
     - Contact Us 
     
-    ![contactus html page 3](https://user-images.githubusercontent.com/73654541/103387557-60223280-4afc-11eb-9212-f89e5a941246.JPG)
+    ![contactus html page 3](https://user-images.githubusercontent.com/73654541/103447464-81f9f180-4c83-11eb-831a-e348b4677c7c.JPG)
+
     
     - Download
-    
-    ![download html page 4](https://user-images.githubusercontent.com/73654541/103387611-91026780-4afc-11eb-9faf-195c03bb4720.JPG)
+
+    ![download html page 4](https://user-images.githubusercontent.com/73654541/103447457-5ecf4200-4c83-11eb-83e6-19d5589fa173.JPG)
 
 ## Features
 
