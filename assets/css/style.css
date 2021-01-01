@@ -452,12 +452,13 @@ button[type="submit"]:hover {
 }
 @media screen and (max-width:700px){
 .social-networks{
-    text-align: left;
+    text-align: center;
     padding-top: 5px;
 }
 @media screen and (max-width:700px){
-.social-networks li{
+.social-networks li a{
    display: contents;
+   align-items: center;
     
 }
 }
@@ -473,6 +474,7 @@ button[type="submit"]:hover {
 @media screen and (max-width:700px){
 .social-networks-heading{
     font-size: 14px;
+    text-align: center;
 }
 }
 }
