@@ -45,7 +45,8 @@ for current member and future members.
             liked the look of it so that is why I chose it.
     -   #### Imagery
         -   Imagery is important. The large, hero image on the index.html page is designed to be striking and catch the user's attention as soon as             they access the webpage.
-            It also has an energetic aesthetically position with the transition attached to it.
+            It also has an energetic aesthetically position with the transition attached to it. Some pictures are distored as they do not match the
+            orignial size of the photo. Future pictures will need to be  originals so I can adjust pixel quality of the photos.
 
 *   ### Wireframes
 
