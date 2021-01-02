@@ -162,6 +162,17 @@ https://jigsaw.w3.org/css-validator/validator
 </p>
 :heavy_check_mark:
 
+## Lighthouse Chrome Development Tool
+Lighthouse is an automated tool for improving the quality of your site. It gives you informaton on the page performance,
+make pages more accessible, adhere to best practices and more. 
+
+I checked my index.html and gallery.html pages on the Lighhouse Chrome Development Tool to see what their performance indicators
+were telling me about the site. 
+
+ ![lighthouseindex](https://user-images.githubusercontent.com/73654541/103458384-54eb2480-4cff-11eb-85a2-00c740ab1f69.jpg)
+
+![lighthousegallery](https://user-images.githubusercontent.com/73654541/103458423-df338880-4cff-11eb-962e-c7c70d342619.jpg)
+
 ### Testing User Stories from User Experience (UX) Section
 
 -   #### First Time Visitor Goals
