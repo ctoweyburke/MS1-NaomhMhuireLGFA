@@ -33,7 +33,9 @@ for current member and future members.
         1. As a Frequent User, I want to check to see if there are any newly added photos to the gallery.
         2. As a Frequent User, I want to access social media to see updates on club/games or downloads to see club info.
         3. As a Frequent User, I want to see links to Galway LGFA (they don't have a website at present), Connacht LGFA & LGFA.
+
 -   ### Design
+
     -   #### Colour Scheme
         -   The colours used are cornflower blue, white and black - to match the colours of the club crest. I included light gray as a background               color- rather than white as I liked the way it blends in with the website, and it clearly defines the sections on the pages.
         
@@ -49,22 +51,22 @@ for current member and future members.
 
     - Home Page
 
-    ![index htmlpage1](https://user-images.githubusercontent.com/73654541/103447398-c33dd180-4c82-11eb-9a1f-7b1a27b8b100.JPG)
+     ![index htmlpage1](https://user-images.githubusercontent.com/73654541/103447398-c33dd180-4c82-11eb-9a1f-7b1a27b8b100.JPG)
 
     
     -   Gallery Page
     
-   ![gallery html page 2](https://user-images.githubusercontent.com/73654541/103447409-e5375400-4c82-11eb-8458-14ee030993bb.JPG)
+     ![gallery html page 2](https://user-images.githubusercontent.com/73654541/103447409-e5375400-4c82-11eb-8458-14ee030993bb.JPG)
 
     
     - Contact Us 
     
-    ![contactus html page 3](https://user-images.githubusercontent.com/73654541/103447736-229de080-4c87-11eb-9135-5c356ccc1237.JPG)
+     ![contactus htmlpage 3](https://user-images.githubusercontent.com/73654541/103447736-229de080-4c87-11eb-9135-5c356ccc1237.JPG)
 
     
     - Download
 
-    ![download html page 4](https://user-images.githubusercontent.com/73654541/103447696-97bce600-4c86-11eb-9add-a1b8bf69db43.JPG)
+     ![download html page 4](https://user-images.githubusercontent.com/73654541/103447696-97bce600-4c86-11eb-9add-a1b8bf69db43.JPG)
 
 ## Features
 
@@ -133,7 +135,7 @@ Fixtures/Results page will be added - as we progress through the year.
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
--   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
+-   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/) :x:
 
 <h5>Download.html - Documents have illegal character in path segment.<h/5> 
 Error: Bad value assets/documents/Academy Naomh Mhuire Report 2020.pdf for attribute href on element a: Illegal character in path segment: space is not allowed.
@@ -158,6 +160,7 @@ https://jigsaw.w3.org/css-validator/validator
             alt="Valid CSS!" />
     </a>
 </p>
+:heavy_check_mark:
 
 ### Testing User Stories from User Experience (UX) Section
 
@@ -231,8 +234,8 @@ https://jigsaw.w3.org/css-validator/validator
 -   I have tested the site on various devices, but have not found any known bugs. 
 -   On Google Chrome, the Social Media icons are 2 side by side and 1 below, rather than 3 across like in the page. 
 
-- I tested the pages to ensure they were mobile responsive. On iphone I found - the social media icons were not centered. I had already 
-created a media query so I had to work on it to align the icons. 
+-   I tested the pages to ensure they were mobile responsive. On iphone I found - the social media icons were not centered. I had already 
+    created a media query so I had to work on it to align the icons. 
 
 ## Deployment
 
@@ -246,14 +249,6 @@ The project was deployed to GitHub Pages using the following steps...
 4. Under "Source", I clicked on the dropdown called "None" and select "Master Branch".
 5. The page will automatically refresh.
 6. I then scrolled back down through the page to locate the now published site [https://github.com/ctoweyburke/MS1-NaomhMhuireLGFA/] in the "GitHub Pages" section.
-
-### Forking the GitHub Repository
-
-By forking the GitHub Repository we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository by using the following steps...
-
-1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
-2. At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
-3. You should now have a copy of the original repository in your GitHub account.
 
 ### Making a Local Clone
 
@@ -277,6 +272,9 @@ See image below - repository cloned.
 ## Credits
 
 ### Code
+-   :heavy_exclamation_mark: I started this project - but felt that I had made too many commits as I was chaning my mind on design etc. I opened a new Repository to re-do the work.
+    I used the same Header/Footer Code I had written from the original project I started and I have attached the location of this repository in GitHub - ctoweyburke/MSP1-NaomhMhuire
+    As it was my first project, I though it had to follow commits like on the Code Institute Sessions - but have learned this is not the case. 
 
 -   The full-screen hero image code came from this [facebook page](https://www.facebook.com/naomhmhuirelgfa)
 
