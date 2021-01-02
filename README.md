@@ -15,6 +15,20 @@ for current member and future members.
 
 ## User Experience (UX)
 
+So the User Experience is critical for any project. The page needs to be utilised so that it will be productive. I have incorporated the UK
+in my project - and refereed back to each section as I worked my way through to ensure I was focusing on the User experience, not just my own
+ideas. 
+Outline of the UX and the strucure.
+
+| Planes         | Description                      | Linked to project  |
+| -------------  |:------------------------------:  | ------------------:|
+| Surface   
+(Visual Design)  | Finished project                 | How the project will look when completed in terms of colour/Typography/animation/transition/responsiveness. |
+| Skeleton       | Layout of project set out.       | Mock Up/Wireframes completed to show how information will be displayed. Relationship of content. |
+| Structure      | Interaction of content.          |Interaction of the content of the pages/How they link together.|
+| Scope          | Specification/Content Required   |List of content that is required for the project - and put in priority.|
+| Strategy       | User needs/What content/Why?     |What are my goals in terms of this project? Initial idea - why do I want to build this project?|
+
 -   ### User stories
 
     -   #### First Time Visitor Goals
